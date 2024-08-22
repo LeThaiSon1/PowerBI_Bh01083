@@ -1,0 +1,401 @@
+SaleID,CustomerID,ProductDetailID,SaleDate,Quantity,TotalAmount,Discount,Tax,PaymentMethod,ShippingAddress,ShippingMethod,OrderStatus
+1,183,106,5/27/2024,3,361.06,0.06,0.14,Bank Transfer,"2338 Tina Key
+Port Daniel, LA 44110",Express,Delivered
+2,108,142,5/8/2024,5,158.45,0.07,0.11,Bank Transfer,"9957 Jeremy Ville Suite 323
+Steinbury, NV 25741",Express,Pending
+3,135,98,1/2/2024,5,71.28,0.12,0.1,Credit Card,"5696 Downs Valleys
+Maryton, AL 24003",Standard,Delivered
+4,189,96,2/15/2024,5,605.39,0.11,0.11,PayPal,"PSC 4837, Box 0164
+APO AE 07101",Express,Delivered
+5,167,122,7/23/2024,6,562.1,0.04,0.06,Bank Transfer,"2654 Chad Islands
+Port Samuel, CO 44946",Standard,Delivered
+6,54,169,4/16/2024,1,494.68,0.15,0.14,Bank Transfer,"8326 Wendy Prairie Apt. 054
+Lake Tonya, NV 53486",Standard,Pending
+7,6,98,3/30/2024,9,420.7,0.23,0.08,Bank Transfer,"27562 Tiffany Lakes
+Lynnmouth, SD 82123",Next Day,Pending
+8,142,106,7/1/2024,8,654.01,0,0.11,PayPal,"06339 Ian Radial Apt. 352
+Christophershire, MT 67690",Express,Pending
+9,20,32,5/26/2024,6,21.87,0.02,0.08,Bank Transfer,"8100 Patterson Pass
+West Ashley, MI 34125",Standard,Shipped
+10,145,68,2/7/2024,4,408.79,0.22,0.07,PayPal,"46853 Ashley Highway Apt. 807
+Guerratown, MN 93259",Standard,Shipped
+11,136,174,3/9/2024,6,831.63,0.16,0.05,Credit Card,"444 Bryce Extensions
+Port Katherineland, CA 14171",Express,Pending
+12,194,194,3/21/2024,5,989.34,0.23,0.05,Credit Card,"2069 Maria Junction
+Prestonshire, MT 39689",Next Day,Shipped
+13,177,31,4/25/2024,5,587.21,0.17,0.12,Credit Card,"36621 Gabrielle Motorway
+Jasonville, RI 25568",Next Day,Delivered
+14,91,13,5/28/2024,5,266.03,0.04,0.08,Bank Transfer,"USNV Thompson
+FPO AA 82952",Standard,Shipped
+15,66,174,2/12/2024,2,285.61,0.2,0.08,PayPal,"90648 Rodriguez Stravenue Apt. 774
+Lake Sandra, VT 10097",Express,Delivered
+16,174,69,3/31/2024,3,928.23,0,0.13,PayPal,"24315 Frederick Stream Apt. 696
+Bakershire, CT 25219",Standard,Delivered
+17,74,51,4/15/2024,3,908.42,0.12,0.07,Bank Transfer,"912 Sanchez Mill
+North Danielmouth, AK 08359",Next Day,Pending
+18,44,111,3/24/2024,2,909.25,0.02,0.09,Bank Transfer,"945 Cynthia Loaf
+New Robert, ND 70316",Express,Delivered
+19,92,62,2/29/2024,1,498.67,0.18,0.11,PayPal,"7735 Daniels Parks Apt. 790
+Port Nicholeland, LA 80205",Express,Pending
+20,82,37,7/1/2024,4,458.3,0.13,0.06,Bank Transfer,"060 Bryan Circle Suite 020
+South Alec, NH 49579",Express,Shipped
+21,151,194,2/11/2024,7,66.22,0.13,0.14,Bank Transfer,"709 James Alley
+Adamsland, NE 73674",Next Day,Pending
+22,45,173,4/17/2024,9,843.01,0.25,0.11,Bank Transfer,"25711 Smith Summit Suite 071
+Pamelamouth, GA 97732",Standard,Pending
+23,135,72,4/5/2024,6,386.56,0.18,0.12,Credit Card,"525 Lopez Glen Suite 590
+East Ashleyhaven, UT 59674",Express,Pending
+24,73,104,7/27/2024,9,589.34,0.14,0.14,Credit Card,"061 Mark Row Suite 225
+Jacquelinemouth, CT 30671",Express,Delivered
+25,149,41,4/25/2024,8,975.43,0.04,0.07,PayPal,"70707 Scott Parkways Suite 016
+Hannahview, VT 04909",Standard,Shipped
+26,127,11,7/12/2024,7,593.37,0.02,0.1,Bank Transfer,"685 Taylor Causeway
+West Steven, MA 76009",Standard,Delivered
+27,122,195,7/19/2024,8,80.47,0.08,0.13,Credit Card,"98917 Morris Passage Apt. 271
+West Gabriella, IA 11854",Standard,Pending
+28,128,1,4/6/2024,7,741.31,0.01,0.11,PayPal,"78861 Cook Loaf Suite 744
+Curtismouth, ME 62532",Express,Pending
+29,113,28,2/26/2024,5,36.67,0.23,0.15,Bank Transfer,"730 Rodriguez Neck Suite 281
+Blevinstown, OR 28453",Standard,Pending
+30,161,5,6/16/2024,1,804.65,0.06,0.1,Credit Card,"0737 James Drives
+Lawrenceborough, MA 53028",Standard,Delivered
+31,42,16,4/3/2024,4,502.36,0.06,0.05,PayPal,"8965 David Courts
+East Bruce, OK 50873",Next Day,Delivered
+32,147,14,7/3/2024,7,360.62,0.22,0.09,PayPal,"USNS Martin
+FPO AP 16064",Next Day,Pending
+33,32,116,1/20/2024,2,819.34,0.25,0.06,PayPal,"83081 Gardner Creek
+West Ryan, NV 61825",Express,Delivered
+34,89,111,6/30/2024,1,449.59,0.25,0.14,PayPal,"519 James Ports
+Taraview, NJ 12603",Next Day,Pending
+35,103,100,4/27/2024,5,779.32,0.04,0.11,Credit Card,"43311 Jacobs Springs Apt. 325
+New Patricia, OR 05302",Next Day,Pending
+36,155,169,8/1/2024,6,178.51,0.05,0.11,Credit Card,"5194 Snow Bridge Apt. 198
+Gregside, NE 72649",Next Day,Pending
+37,146,53,7/8/2024,1,827.8,0.04,0.07,Bank Transfer,"24821 Stephanie Hill
+Lake Jamesfort, NE 55024",Standard,Pending
+38,1,35,4/21/2024,5,817.85,0.16,0.07,PayPal,"092 Conway Isle Suite 826
+North John, GA 61675",Express,Shipped
+39,147,82,2/12/2024,9,145.45,0.06,0.11,Credit Card,"957 Teresa Ford Suite 443
+Youngbury, MN 91648",Next Day,Delivered
+40,41,116,5/21/2024,8,211.35,0.03,0.09,PayPal,"1055 Amanda Mission
+Hamptonport, IN 29449",Next Day,Shipped
+41,57,114,7/23/2024,9,863.23,0.03,0.12,Bank Transfer,"73066 Eric Ridges
+Shariborough, ID 09289",Express,Shipped
+42,50,135,6/5/2024,2,912,0.12,0.15,PayPal,"Unit 7734 Box 7517
+DPO AE 08987",Express,Shipped
+43,155,62,8/11/2024,7,16.89,0.03,0.11,Bank Transfer,"899 Brewer Light
+East Dianaborough, IL 11759",Express,Delivered
+44,28,89,5/26/2024,4,888.67,0.25,0.09,PayPal,"120 Erik Walk Apt. 360
+South Donnaland, NH 08559",Next Day,Pending
+45,27,132,2/6/2024,8,803.55,0.15,0.11,Bank Transfer,"Unit 5395 Box 2401
+DPO AP 06278",Next Day,Shipped
+46,104,162,8/4/2024,9,722.7,0.06,0.13,PayPal,"258 Donna Squares Apt. 123
+Gomezburgh, AR 91347",Next Day,Delivered
+47,95,131,4/15/2024,4,226.13,0.18,0.12,PayPal,"6613 Carter Islands Apt. 007
+Sherriside, WA 61624",Standard,Shipped
+48,197,149,7/26/2024,3,272,0.21,0.08,PayPal,"526 Grant Dam
+West Angelamouth, GA 75914",Standard,Shipped
+49,90,184,1/17/2024,6,353.14,0.04,0.12,Credit Card,"6497 White Ranch Suite 523
+South Ross, LA 81081",Express,Shipped
+50,150,48,2/6/2024,3,140.29,0.01,0.09,Bank Transfer,"96301 Jimenez Shores
+Johnmouth, PA 50698",Next Day,Pending
+51,29,67,3/3/2024,2,987.4,0.08,0.06,PayPal,"21362 Wu Inlet Apt. 698
+South Debraview, VT 43240",Standard,Shipped
+52,51,91,2/2/2024,6,981.39,0.11,0.07,Credit Card,"7155 Brown Wells Suite 995
+New Jennifer, GA 87816",Express,Pending
+53,46,21,1/15/2024,2,125.61,0.04,0.1,Credit Card,"7490 Garza Prairie
+Port Abigail, KS 49229",Standard,Shipped
+54,72,108,2/7/2024,3,423.11,0.12,0.13,Credit Card,"2190 Scott Track Apt. 675
+Chavezton, TN 93241",Next Day,Delivered
+55,41,64,7/22/2024,7,331.45,0.15,0.06,PayPal,"PSC 9052, Box 3575
+APO AA 52781",Next Day,Pending
+56,88,20,7/14/2024,4,490.33,0.06,0.07,Credit Card,"PSC 7848, Box 4981
+APO AA 94602",Standard,Shipped
+57,101,14,6/17/2024,6,399.45,0.03,0.1,Credit Card,"6823 Cummings Oval
+East Johnview, AR 86770",Standard,Pending
+58,75,155,4/3/2024,5,909.32,0.12,0.1,Credit Card,"Unit 5178 Box 4813
+DPO AP 67703",Standard,Delivered
+59,172,114,3/4/2024,3,61.68,0.24,0.14,Bank Transfer,"8101 Bennett Trafficway Suite 492
+East Roy, VT 67835",Standard,Pending
+60,168,31,6/8/2024,6,842.13,0.06,0.07,Credit Card,"98593 Russell Island Apt. 911
+Patricktown, DE 31696",Next Day,Delivered
+61,136,187,5/23/2024,2,771.77,0.12,0.1,PayPal,"1114 Neil Mews
+West Feliciamouth, WV 66885",Standard,Delivered
+62,137,25,3/13/2024,2,482.83,0.2,0.09,PayPal,"0171 Jones Gardens
+West Jennifer, AZ 08423",Next Day,Delivered
+63,141,164,7/25/2024,4,911.23,0.07,0.1,PayPal,"45335 Jason Pike Apt. 708
+North Jay, PA 72831",Express,Delivered
+64,31,155,5/17/2024,3,576.78,0.2,0.08,PayPal,"691 Parker Expressway
+Port Kimberly, NY 18511",Next Day,Delivered
+65,128,146,3/9/2024,6,258.34,0.25,0.08,PayPal,"70638 Whitehead Curve
+Larrychester, CT 22929",Next Day,Pending
+66,142,80,8/20/2024,1,482.88,0.06,0.12,Credit Card,"210 Anthony Ville Suite 769
+Lake Latashaville, OK 71892",Next Day,Delivered
+67,128,26,6/18/2024,3,943.72,0.01,0.15,PayPal,"36761 Louis Springs
+Davidbury, UT 93276",Standard,Shipped
+68,188,38,4/28/2024,3,141,0.09,0.13,PayPal,"PSC 0228, Box 5955
+APO AA 82084",Next Day,Pending
+69,95,166,3/20/2024,5,717.9,0.02,0.06,PayPal,"9280 David Avenue Suite 643
+Port Christineshire, CT 02949",Standard,Delivered
+70,191,158,4/23/2024,1,959.64,0.07,0.11,PayPal,"6569 Samuel Garden Suite 581
+Martinshire, NY 12297",Express,Shipped
+71,159,102,1/6/2024,2,37.44,0.03,0.1,Credit Card,"2926 Walsh Harbor Apt. 053
+West Ryanville, MS 65838",Express,Shipped
+72,127,16,2/13/2024,1,378.79,0.08,0.07,PayPal,"5859 Lisa Keys
+South Tyroneshire, DC 40793",Express,Shipped
+73,188,47,6/2/2024,6,296.92,0.2,0.08,Bank Transfer,"251 Kevin Orchard Suite 335
+Barrybury, WV 39521",Next Day,Shipped
+74,172,161,2/13/2024,3,758.8,0.07,0.08,Bank Transfer,"76724 Thompson Mountains Suite 178
+Vegabury, DE 52660",Next Day,Pending
+75,74,175,2/3/2024,5,744.81,0.16,0.14,Bank Transfer,"8441 Welch Grove
+Port Glentown, TX 87706",Standard,Delivered
+76,180,172,7/26/2024,4,65.58,0.07,0.11,Bank Transfer,"50771 Armstrong Mill Apt. 475
+Aaronside, WI 35509",Express,Shipped
+77,46,34,3/24/2024,8,618.95,0.18,0.1,PayPal,"853 Collins Prairie Apt. 156
+South Jessicaton, CT 36549",Express,Pending
+78,39,153,7/18/2024,1,745.6,0.12,0.05,PayPal,"85092 Savannah Run
+South Matthewburgh, VT 15514",Express,Delivered
+79,37,169,1/23/2024,4,126.46,0.21,0.15,PayPal,"57916 Henry Corners
+Lake Moniquetown, FL 79069",Next Day,Shipped
+80,46,36,6/20/2024,5,557.16,0.02,0.12,Bank Transfer,"14987 Jon Hills Suite 875
+Lake Jasontown, WV 97706",Express,Shipped
+81,46,149,2/25/2024,1,114.28,0.02,0.14,Bank Transfer,"716 Albert Meadows Suite 070
+Lindseyside, AK 77704",Standard,Pending
+82,7,20,6/11/2024,4,605.62,0.16,0.08,PayPal,"149 Vanessa Summit
+West Kathleen, KY 06734",Express,Shipped
+83,139,139,1/19/2024,8,617.35,0.04,0.13,Bank Transfer,"1121 John Tunnel Suite 478
+Antoniostad, DE 02207",Express,Delivered
+84,96,12,1/11/2024,3,598.08,0.23,0.07,Bank Transfer,"054 Christy Summit
+Flowersburgh, MT 70571",Next Day,Delivered
+85,114,191,7/29/2024,6,24.61,0.03,0.06,PayPal,"5416 Nicholas Centers Suite 506
+Stevenshire, TX 44549",Next Day,Shipped
+86,191,198,3/15/2024,9,167.77,0.11,0.05,Credit Card,"Unit 0594 Box 1987
+DPO AA 84287",Standard,Delivered
+87,76,47,6/15/2024,1,341.09,0.09,0.14,PayPal,"43565 Stephen Avenue
+South Katrina, MD 61785",Next Day,Shipped
+88,54,199,2/8/2024,8,781.34,0.14,0.14,Credit Card,"387 Gonzalez Loop
+West Michelechester, OR 39717",Express,Pending
+89,147,67,6/21/2024,4,543.36,0.11,0.1,Credit Card,"93529 Schmidt Burgs Apt. 954
+New Carrie, NC 91364",Express,Shipped
+90,45,11,4/23/2024,2,325.54,0.22,0.11,Bank Transfer,"74161 Robert Curve Apt. 761
+East Victoria, VA 83291",Next Day,Shipped
+91,194,7,3/14/2024,7,861.87,0.22,0.15,PayPal,"9346 Morales Turnpike
+East Austin, MN 81386",Next Day,Pending
+92,173,46,6/23/2024,7,159.34,0.04,0.08,Bank Transfer,"3555 Cox Extension
+North Stephanie, LA 71699",Standard,Shipped
+93,57,139,5/1/2024,2,369.18,0.13,0.07,Credit Card,"8872 Hill Heights
+East Olivia, RI 85704",Next Day,Delivered
+94,66,46,4/8/2024,1,589.18,0.14,0.05,Credit Card,"41940 James Flats Apt. 534
+Normanport, AR 16842",Standard,Delivered
+95,93,8,8/19/2024,3,966.61,0.22,0.13,Credit Card,"73952 Kevin Harbor
+Lake Brettstad, AL 32779",Express,Delivered
+96,52,6,2/11/2024,1,420.77,0.23,0.13,PayPal,"938 Jacob Forest Apt. 552
+Jonathanberg, IN 15947",Standard,Delivered
+97,42,20,8/8/2024,9,998.72,0.17,0.09,PayPal,"446 Scott Dale Apt. 874
+Lake Carlashire, OH 37745",Standard,Shipped
+98,153,16,4/27/2024,7,41.41,0.16,0.07,PayPal,"4748 Gregory Garden
+Port Jefffurt, WY 23935",Standard,Shipped
+99,46,120,5/23/2024,4,603.33,0.08,0.07,Bank Transfer,"063 Martin Glen
+Jessicachester, NY 51573",Express,Pending
+100,125,65,1/17/2024,6,599.12,0.17,0.08,Credit Card,"982 Vaughan Square Apt. 105
+Port Grantstad, NH 49676",Next Day,Pending
+101,160,79,3/15/2024,6,441.62,0.16,0.11,Bank Transfer,"4128 Rodriguez Estates Suite 308
+Port Amandastad, OK 48876",Standard,Pending
+102,109,21,7/14/2024,4,476.43,0.03,0.14,Credit Card,"4790 Sandra Orchard
+Stevenfurt, OK 60967",Next Day,Delivered
+103,172,66,1/29/2024,1,573.6,0.21,0.07,Bank Transfer,"6319 Rogers Flat
+Milesmouth, UT 78333",Express,Shipped
+104,63,137,7/27/2024,4,413.27,0.01,0.12,PayPal,"6770 Booth Ridge Suite 672
+Kristytown, VA 57428",Express,Pending
+105,190,13,1/9/2024,3,137.45,0.02,0.06,Credit Card,"9470 Brooks Rapids Apt. 445
+Reynoldsfort, KY 28155",Next Day,Pending
+106,179,17,1/31/2024,6,875.38,0.04,0.09,Credit Card,"816 John Village Suite 605
+Karaport, MD 32663",Next Day,Delivered
+107,61,164,4/30/2024,7,435.98,0.19,0.07,Bank Transfer,"028 Campbell Stravenue Suite 222
+Ortizfurt, MT 55772",Express,Delivered
+108,55,195,4/30/2024,7,202.96,0.18,0.09,Bank Transfer,"437 Jared Crossroad
+Port Lori, HI 60332",Next Day,Delivered
+109,100,46,4/22/2024,4,393.34,0.1,0.07,Bank Transfer,"0829 Morris Grove Suite 202
+Valdezport, IL 62583",Express,Shipped
+110,49,24,5/20/2024,3,480.19,0.06,0.14,PayPal,"364 Smith Junctions Apt. 838
+Williamfurt, PA 01066",Express,Delivered
+111,165,138,7/7/2024,5,548.82,0.18,0.09,Credit Card,"12637 Lynch Island Apt. 677
+Edwardhaven, GA 22286",Next Day,Delivered
+112,103,88,5/20/2024,1,985.88,0.03,0.13,Bank Transfer,"59077 Edwards Lock Suite 554
+North Jonathanborough, NJ 09257",Standard,Delivered
+113,136,111,8/7/2024,3,461.59,0.05,0.12,Credit Card,"52843 Tina Dam Suite 411
+Sandraland, AK 87047",Express,Delivered
+114,6,68,5/21/2024,6,234.13,0.17,0.09,Credit Card,"492 Robin Rapid Apt. 923
+Aprilberg, SD 81442",Express,Pending
+115,188,130,3/8/2024,1,574.8,0.17,0.14,PayPal,"55644 Mcgee Hollow
+North Jacobmouth, GA 39264",Next Day,Shipped
+116,154,122,8/2/2024,6,389.57,0.16,0.12,PayPal,"8428 Alicia Shores Apt. 917
+Allisonview, KS 90067",Next Day,Delivered
+117,180,19,2/16/2024,9,193.79,0.18,0.13,Credit Card,"963 Jamie Neck
+Port Ivan, AR 35447",Express,Delivered
+118,20,199,3/30/2024,8,127.13,0.14,0.13,Credit Card,"36635 Dustin Stream Apt. 037
+Lisaborough, WA 01112",Next Day,Shipped
+119,50,148,6/12/2024,8,576.37,0.24,0.05,Credit Card,"532 Williams Lane
+North Andrea, MA 95146",Next Day,Shipped
+120,105,183,1/15/2024,7,22.67,0.13,0.06,Bank Transfer,"751 Joshua Crest Apt. 838
+Burgessberg, MD 96272",Express,Pending
+121,103,157,5/16/2024,5,133.39,0.17,0.09,PayPal,"0922 Ashley Parks
+North Ashleyside, UT 02119",Next Day,Pending
+122,200,54,2/25/2024,1,159.13,0.04,0.11,PayPal,"044 Downs Burg Suite 572
+West Shaun, LA 81732",Standard,Pending
+123,76,188,4/25/2024,2,270.19,0.15,0.13,Bank Transfer,"0831 David Village
+East Deanville, NH 67927",Standard,Delivered
+124,147,168,6/23/2024,5,888.41,0.05,0.09,Credit Card,"USS Walls
+FPO AP 52439",Next Day,Delivered
+125,42,133,6/22/2024,7,25.06,0.08,0.07,Bank Transfer,"868 Alison Track
+Lake Scotthaven, TX 16859",Standard,Shipped
+126,156,198,8/13/2024,5,558.87,0.06,0.15,Credit Card,"994 Ward Mountain Apt. 225
+Karenton, WI 83912",Standard,Pending
+127,194,163,8/21/2024,1,571.96,0.1,0.09,Credit Card,"5470 Joe Bypass Suite 624
+Sarahtown, FL 72741",Express,Shipped
+128,145,67,6/9/2024,1,387.58,0.14,0.15,Bank Transfer,"397 Vega Spur
+Pattersonside, OK 78307",Express,Delivered
+129,40,79,6/28/2024,3,667.92,0.11,0.11,PayPal,"6700 Page Springs Suite 025
+Port Joshuahaven, AL 89812",Standard,Shipped
+130,56,53,5/29/2024,6,837.04,0.15,0.12,Credit Card,"736 Dennis Roads
+Kristinaborough, WA 87223",Express,Shipped
+131,179,87,7/26/2024,6,109.24,0.02,0.08,Bank Transfer,"299 Hunter Stravenue
+New Lorraine, AK 56026",Express,Pending
+132,195,169,7/6/2024,3,175.16,0.11,0.08,PayPal,"77451 Morgan Radial Suite 623
+Davisside, KS 56080",Express,Delivered
+133,3,36,4/25/2024,5,987.19,0,0.06,Credit Card,"16033 Brandi Place
+South Wendy, OK 15694",Next Day,Delivered
+134,91,91,2/25/2024,8,904.66,0.11,0.07,Credit Card,"7082 Ross Grove
+Rickyville, KY 25743",Next Day,Delivered
+135,30,132,3/25/2024,7,813.81,0.03,0.08,Credit Card,"99561 Brian Trafficway Apt. 241
+East Amanda, AK 30335",Next Day,Pending
+136,66,122,5/11/2024,1,280.29,0.07,0.07,Credit Card,"912 Phillips Mews Apt. 296
+South George, NH 66592",Standard,Pending
+137,29,25,1/26/2024,2,25.12,0.09,0.11,Bank Transfer,"7175 Brad Parkways Apt. 838
+Port Williammouth, TX 81194",Standard,Pending
+138,23,25,2/11/2024,2,708.46,0.25,0.14,Bank Transfer,"682 Black Villages
+Garychester, CO 84379",Standard,Pending
+139,37,111,1/10/2024,1,18.75,0.19,0.09,Bank Transfer,"37790 Mullins Estate Suite 638
+Tammystad, TN 03509",Standard,Delivered
+140,11,100,3/22/2024,5,998.35,0.22,0.15,Bank Transfer,"3395 Albert Cape Apt. 654
+North Michelle, IL 23271",Next Day,Delivered
+141,148,6,5/12/2024,7,461.63,0.2,0.05,PayPal,"5570 Armstrong Flat Suite 277
+Karenfurt, MT 09353",Express,Shipped
+142,22,106,3/1/2024,9,421.5,0.08,0.08,Credit Card,"3302 Daniel Vista Suite 899
+West Vernon, MS 83529",Express,Pending
+143,100,27,7/15/2024,9,726.87,0.22,0.1,Credit Card,"Unit 2091 Box 8008
+DPO AE 24545",Standard,Delivered
+144,98,178,3/6/2024,5,495.85,0.15,0.13,PayPal,"22932 Nelson Land
+Port David, CO 78025",Next Day,Delivered
+145,63,15,7/29/2024,8,881.68,0.17,0.1,PayPal,"23934 Carrie Isle Suite 311
+Port Claire, SC 17949",Standard,Pending
+146,196,77,6/9/2024,9,803.2,0.09,0.06,Credit Card,"0204 Michelle Lake Suite 002
+Lake Andrewburgh, NY 13796",Standard,Shipped
+147,28,179,2/24/2024,5,680.02,0.12,0.05,Credit Card,"38171 Joann Heights
+New Bryanborough, CT 24871",Standard,Shipped
+148,19,17,5/24/2024,5,205.57,0.11,0.06,Credit Card,"USS French
+FPO AA 83468",Next Day,Delivered
+149,181,77,5/20/2024,6,839.44,0.15,0.15,Bank Transfer,"7642 Randolph Island Apt. 681
+Calvinfort, CT 39970",Standard,Delivered
+150,52,16,5/9/2024,7,263.92,0.1,0.09,Bank Transfer,"31280 Alexis Islands Suite 079
+Peterfort, PA 15854",Next Day,Delivered
+151,72,153,8/9/2024,2,949.37,0.23,0.09,Credit Card,"3272 Ingram Underpass
+East Michael, WA 13933",Standard,Pending
+152,191,57,1/16/2024,8,664.59,0.2,0.13,Bank Transfer,"58521 Small Port Suite 309
+New Bettyville, DE 64706",Standard,Pending
+153,128,71,5/14/2024,3,955.89,0.09,0.07,Credit Card,"72082 Sharon Islands
+Lake Susanland, LA 22133",Standard,Delivered
+154,18,6,4/2/2024,9,589.13,0.17,0.13,Credit Card,"2038 Kristina Keys Suite 820
+South Marissahaven, MT 60846",Standard,Delivered
+155,186,107,4/24/2024,2,704.19,0.09,0.05,Bank Transfer,"3707 Daniel Knoll
+Lynnshire, ID 49707",Express,Delivered
+156,174,10,1/12/2024,5,168.36,0.2,0.08,Bank Transfer,"811 Michael Walks Apt. 498
+New Stephenmouth, IA 25386",Standard,Delivered
+157,194,50,1/12/2024,2,852.51,0.01,0.06,Credit Card,"707 Christopher Mill Suite 815
+West Katherine, SC 17344",Next Day,Delivered
+158,74,49,8/8/2024,7,268.5,0.16,0.15,Credit Card,"18980 Downs Mews
+Lake Yolandafurt, FL 82963",Next Day,Pending
+159,177,98,2/14/2024,2,900.86,0.08,0.13,Bank Transfer,"38093 Heath Pass
+New Alexmouth, NJ 11032",Express,Pending
+160,141,107,8/10/2024,5,191.41,0.15,0.11,Credit Card,"9866 Eric Dam Suite 881
+New Peterhaven, MD 51994",Next Day,Shipped
+161,182,71,1/5/2024,2,687.9,0.11,0.13,Bank Transfer,"03728 Kelley Mews Suite 782
+Lake Michaelmouth, TX 51896",Express,Delivered
+162,30,107,3/26/2024,1,132.31,0.03,0.07,PayPal,"67404 Terry Ridges Apt. 260
+South Robert, IL 13142",Express,Shipped
+163,28,21,5/30/2024,3,270.22,0.24,0.06,Bank Transfer,"708 Cindy Run Apt. 472
+Adkinstown, WI 70807",Standard,Pending
+164,136,191,4/1/2024,5,368.98,0.16,0.05,Bank Transfer,"43208 Brooke Greens
+West Mariaview, IN 22022",Express,Pending
+165,163,145,4/20/2024,3,916.4,0.23,0.1,Bank Transfer,"12834 Erin Manor Apt. 688
+New Justin, OK 72851",Express,Shipped
+166,197,149,3/26/2024,4,732.32,0.19,0.12,Credit Card,"012 Marc Point
+South Stephen, NC 24569",Standard,Delivered
+167,153,77,1/27/2024,2,293.29,0.16,0.07,Bank Transfer,"13319 Frazier Wells
+Lake Tammybury, MT 27845",Standard,Shipped
+168,56,7,2/29/2024,3,822.38,0.08,0.09,PayPal,"139 Alyssa Well
+Crawfordside, NY 49531",Standard,Shipped
+169,126,80,3/19/2024,2,918.38,0.24,0.07,PayPal,"069 Mary Canyon Suite 747
+East Nathanburgh, SC 53982",Standard,Shipped
+170,37,160,5/16/2024,3,842.57,0.21,0.14,Credit Card,"USCGC Young
+FPO AA 23244",Standard,Pending
+171,114,197,8/7/2024,7,625.81,0.04,0.12,Bank Transfer,"709 Burgess Spur Suite 994
+Port Billychester, IA 55511",Express,Delivered
+172,140,165,7/30/2024,8,980.77,0.18,0.07,PayPal,"23885 Eugene Port Apt. 098
+North James, CT 52896",Next Day,Shipped
+173,189,198,4/26/2024,4,276.61,0.1,0.14,Bank Transfer,"54327 Jessica Haven
+Joetown, AZ 90296",Express,Shipped
+174,133,1,5/31/2024,6,868.42,0.12,0.1,PayPal,"80489 Charles Court
+Kirbyburgh, PA 27554",Next Day,Pending
+175,94,136,4/8/2024,8,716.13,0.16,0.08,Bank Transfer,"77569 Jordan Station Suite 090
+Nealport, CT 44500",Standard,Delivered
+176,159,24,6/26/2024,1,955.57,0.16,0.07,PayPal,"6021 Evans Cove
+Nobleland, WI 28522",Next Day,Delivered
+177,29,20,7/29/2024,6,798.8,0.24,0.12,Bank Transfer,"577 Garcia Walks Apt. 132
+East Adambury, SD 04309",Standard,Delivered
+178,31,183,7/25/2024,8,347.63,0.2,0.09,Credit Card,"19530 Krystal Park
+West Carlystad, MN 50872",Standard,Shipped
+179,108,1,3/15/2024,5,244.08,0.06,0.08,Credit Card,"7215 Kelly Squares Apt. 433
+Thomashaven, FL 08857",Express,Delivered
+180,159,56,7/19/2024,4,856.34,0.24,0.12,Credit Card,"069 Moore Meadows Suite 543
+Jeffland, IA 11077",Next Day,Shipped
+181,54,125,7/7/2024,1,334.4,0.1,0.05,Bank Transfer,"038 Parker Valley Apt. 071
+Davisland, OK 34896",Next Day,Shipped
+182,48,101,6/26/2024,2,321.02,0.24,0.11,Credit Card,"Unit 5123 Box 6291
+DPO AA 26907",Express,Delivered
+183,93,150,5/15/2024,5,583.14,0.05,0.15,Credit Card,"667 Peggy Forest Suite 649
+Port Vanessa, NY 21213",Express,Pending
+184,33,141,3/6/2024,2,711.55,0.19,0.15,Bank Transfer,"Unit 9471 Box 1809
+DPO AP 87288",Standard,Pending
+185,90,192,3/2/2024,4,660.92,0.21,0.05,Bank Transfer,"838 Wood Street
+Williamsmouth, AZ 08905",Next Day,Pending
+186,64,82,3/5/2024,3,690.28,0,0.13,Credit Card,"91475 Clark Forest
+West Gregory, OH 37503",Next Day,Pending
+187,135,25,5/28/2024,8,870.75,0.13,0.08,Bank Transfer,"636 Perkins Plaza
+South Donna, AZ 71622",Next Day,Pending
+188,27,95,2/2/2024,5,43.85,0.13,0.12,Credit Card,"PSC 7082, Box 2164
+APO AA 49255",Standard,Shipped
+189,129,165,3/30/2024,2,832.25,0.1,0.13,PayPal,"4708 Blackburn Oval
+East Donald, KY 05373",Next Day,Pending
+190,174,69,6/16/2024,6,150.1,0.03,0.06,PayPal,"936 John Tunnel Apt. 818
+West Michael, LA 15493",Next Day,Pending
+191,59,14,5/30/2024,6,713.18,0.24,0.07,Bank Transfer,"9243 Nguyen Stream
+South Lancehaven, RI 63969",Standard,Pending
+192,155,182,7/26/2024,5,625.57,0.1,0.14,Bank Transfer,"USCGC Richardson
+FPO AA 95969",Next Day,Pending
+193,64,135,8/3/2024,6,411.69,0.25,0.12,Bank Transfer,"984 Taylor Mountains
+Terrellville, NM 87645",Express,Delivered
+194,119,7,5/13/2024,5,44.09,0.19,0.05,Credit Card,"0402 Lance Extensions
+North James, VT 50002",Standard,Pending
+195,142,132,6/24/2024,4,29.32,0.03,0.1,Credit Card,"79720 Lawrence Ford
+Port Amandaland, NC 48519",Express,Shipped
+196,2,168,3/5/2024,2,637.47,0.06,0.13,Credit Card,"36074 Gonzalez Prairie Apt. 550
+Lake Daniel, IN 10026",Express,Delivered
+197,47,96,7/22/2024,1,590.98,0.13,0.09,Bank Transfer,"USS Smith
+FPO AA 54736",Next Day,Pending
+198,50,151,7/21/2024,4,977.99,0.08,0.12,Credit Card,"60421 Amber Cliff
+Lake Richard, TN 74089",Standard,Shipped
+199,102,157,4/9/2024,9,660.72,0.15,0.08,Credit Card,"58352 Huang Road
+Port Jillian, UT 31180",Next Day,Shipped
+200,138,14,2/28/2024,6,885.55,0.19,0.09,Bank Transfer,"020 Liu Cliff
+Doyletown, MA 36422",Next Day,Pending

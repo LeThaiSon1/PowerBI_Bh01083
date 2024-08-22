@@ -1,0 +1,201 @@
+AccessCategoryID,CustomerID,CategoryName,AccessDate,Duration,PageViews,Clicks,DeviceType,BrowserType,ReferralSource,IPAddress,Geolocation
+1,93,fact,2/21/2024,29,49,80,Desktop,Safari,Social Media,46.37.236.4,Liechtenstein
+2,111,the,8/1/2024,106,24,87,Mobile,Firefox,Direct,2.39.158.166,Fiji
+3,102,relate,7/20/2024,30,63,66,Mobile,Firefox,Direct,43.204.150.16,Togo
+4,159,seven,1/13/2024,52,74,21,Mobile,Chrome,Direct,90.153.13.215,Bangladesh
+5,81,race,5/15/2024,102,62,66,Mobile,Safari,Direct,172.13.158.62,United States of America
+6,121,child,7/9/2024,26,4,84,Mobile,Safari,Search Engine,204.168.19.69,Martinique
+7,121,another,4/26/2024,77,82,47,Desktop,Chrome,Social Media,122.191.204.44,Ecuador
+8,82,claim,4/23/2024,70,18,58,Mobile,Chrome,Search Engine,209.118.178.42,Bhutan
+9,32,heart,8/13/2024,27,93,5,Desktop,Chrome,Search Engine,197.132.141.156,Liberia
+10,26,decide,8/10/2024,92,58,18,Mobile,Firefox,Search Engine,32.104.130.238,Malawi
+11,54,others,2/29/2024,54,32,94,Mobile,Safari,Search Engine,126.157.233.106,United Arab Emirates
+12,199,will,4/29/2024,47,4,30,Mobile,Safari,Direct,139.197.59.240,Zimbabwe
+13,110,identify,8/19/2024,67,31,59,Desktop,Chrome,Social Media,33.140.35.64,Mauritius
+14,105,peace,4/11/2024,24,38,33,Desktop,Firefox,Search Engine,191.17.18.31,Antigua and Barbuda
+15,145,strategy,8/14/2024,94,61,7,Mobile,Firefox,Social Media,195.103.19.211,Dominican Republic
+16,83,drop,1/22/2024,74,16,93,Mobile,Firefox,Search Engine,78.180.40.87,Tokelau
+17,170,appear,6/2/2024,13,21,13,Desktop,Chrome,Social Media,46.179.97.173,Denmark
+18,142,region,2/18/2024,58,52,66,Desktop,Safari,Social Media,60.79.216.21,Barbados
+19,169,fly,3/31/2024,50,63,76,Desktop,Safari,Search Engine,21.73.141.130,Japan
+20,15,task,1/12/2024,90,86,35,Desktop,Firefox,Direct,56.241.67.240,Montserrat
+21,15,pull,1/28/2024,64,62,45,Mobile,Safari,Social Media,25.95.79.168,Iceland
+22,158,where,5/27/2024,51,72,22,Desktop,Firefox,Direct,174.109.117.132,Qatar
+23,17,sign,5/13/2024,36,40,55,Desktop,Chrome,Search Engine,142.163.12.6,Libyan Arab Jamahiriya
+24,100,give,5/31/2024,118,21,22,Mobile,Chrome,Search Engine,176.162.143.29,Myanmar
+25,165,health,8/1/2024,8,20,36,Mobile,Chrome,Social Media,201.190.149.41,Cook Islands
+26,98,show,6/8/2024,48,22,65,Mobile,Safari,Social Media,148.166.75.75,Heard Island and McDonald Islands
+27,163,very,6/28/2024,43,95,78,Desktop,Chrome,Direct,102.202.224.113,Jersey
+28,138,it,8/12/2024,26,25,1,Desktop,Firefox,Search Engine,18.10.209.203,Nauru
+29,109,short,7/22/2024,43,37,59,Mobile,Firefox,Social Media,17.217.222.48,Cameroon
+30,176,each,6/24/2024,37,97,66,Mobile,Firefox,Direct,41.245.124.39,Solomon Islands
+31,66,nearly,6/8/2024,69,53,9,Desktop,Firefox,Search Engine,63.241.18.109,Macao
+32,27,much,3/4/2024,26,80,25,Mobile,Firefox,Social Media,75.132.233.115,Guam
+33,89,such,8/7/2024,91,42,12,Desktop,Safari,Search Engine,3.14.206.159,Poland
+34,139,benefit,3/13/2024,69,70,79,Desktop,Firefox,Search Engine,216.227.61.103,Kyrgyz Republic
+35,165,outside,2/7/2024,104,73,46,Mobile,Chrome,Social Media,69.136.78.174,Saint Barthelemy
+36,184,protect,5/27/2024,1,4,66,Mobile,Chrome,Search Engine,12.239.1.131,Trinidad and Tobago
+37,27,main,4/6/2024,56,11,51,Mobile,Safari,Social Media,159.196.110.33,Bahamas
+38,197,fire,7/16/2024,116,74,43,Desktop,Safari,Direct,10.87.63.38,Croatia
+39,8,candidate,7/22/2024,60,42,7,Desktop,Safari,Search Engine,98.162.7.200,Lesotho
+40,184,hit,8/17/2024,59,37,62,Mobile,Firefox,Search Engine,25.126.240.227,Czech Republic
+41,184,something,6/19/2024,78,58,34,Desktop,Firefox,Search Engine,205.124.14.212,Switzerland
+42,73,scientist,6/25/2024,102,46,70,Mobile,Safari,Direct,216.1.184.195,Martinique
+43,128,staff,1/2/2024,97,25,84,Desktop,Firefox,Search Engine,38.174.229.52,Niger
+44,75,matter,1/14/2024,62,69,79,Mobile,Safari,Search Engine,152.93.57.6,Nicaragua
+45,175,significant,6/7/2024,41,59,28,Desktop,Chrome,Direct,41.107.186.194,Maldives
+46,105,lose,7/29/2024,115,92,72,Mobile,Safari,Search Engine,22.4.241.162,Kyrgyz Republic
+47,65,model,1/16/2024,54,58,75,Mobile,Firefox,Search Engine,200.99.139.117,Nigeria
+48,195,citizen,6/20/2024,100,77,53,Mobile,Chrome,Search Engine,76.189.50.92,El Salvador
+49,58,ball,3/29/2024,111,94,34,Desktop,Safari,Direct,153.8.37.32,Uruguay
+50,78,stage,4/4/2024,119,52,4,Mobile,Firefox,Search Engine,181.118.227.61,Mozambique
+51,126,majority,4/21/2024,110,64,24,Desktop,Chrome,Search Engine,5.188.233.95,Belarus
+52,164,individual,1/8/2024,73,20,25,Mobile,Safari,Social Media,70.84.74.122,Indonesia
+53,100,whatever,3/2/2024,13,10,52,Desktop,Firefox,Direct,81.248.82.8,Northern Mariana Islands
+54,24,fall,2/21/2024,116,17,55,Desktop,Firefox,Direct,215.36.90.40,Faroe Islands
+55,161,thing,2/16/2024,61,35,33,Desktop,Safari,Search Engine,71.90.97.42,Moldova
+56,106,arrive,1/20/2024,97,40,17,Desktop,Firefox,Search Engine,40.71.155.123,Senegal
+57,8,thousand,1/2/2024,113,90,60,Desktop,Safari,Search Engine,11.109.255.183,Bangladesh
+58,69,year,5/16/2024,68,41,66,Mobile,Chrome,Direct,190.246.219.236,Equatorial Guinea
+59,78,husband,2/7/2024,102,77,46,Desktop,Chrome,Search Engine,131.193.200.91,Kazakhstan
+60,102,customer,5/11/2024,97,99,61,Desktop,Chrome,Direct,125.49.223.91,Bouvet Island (Bouvetoya)
+61,43,detail,1/29/2024,46,2,72,Mobile,Firefox,Direct,93.119.21.40,Nigeria
+62,74,institution,8/4/2024,118,36,88,Desktop,Chrome,Social Media,7.109.245.42,Northern Mariana Islands
+63,2,stay,4/19/2024,40,19,87,Desktop,Safari,Direct,188.180.74.56,Japan
+64,19,Republican,7/15/2024,72,58,19,Desktop,Safari,Social Media,163.74.116.114,Bulgaria
+65,147,western,1/20/2024,94,10,30,Desktop,Firefox,Direct,208.1.183.92,Nicaragua
+66,174,next,1/28/2024,104,92,52,Desktop,Safari,Direct,222.237.13.174,Namibia
+67,104,able,3/22/2024,85,79,75,Desktop,Chrome,Social Media,194.57.174.170,United States of America
+68,91,fall,8/16/2024,110,10,99,Mobile,Firefox,Search Engine,92.200.236.99,Saint Vincent and the Grenadines
+69,85,young,1/13/2024,2,22,6,Desktop,Safari,Search Engine,57.159.206.45,Maldives
+70,79,create,4/4/2024,116,95,77,Desktop,Safari,Direct,80.144.92.183,Saint Helena
+71,7,wear,1/17/2024,46,20,92,Desktop,Safari,Search Engine,31.36.216.42,Cuba
+72,89,alone,6/10/2024,87,67,9,Mobile,Chrome,Direct,98.192.86.101,Nauru
+73,155,indeed,4/19/2024,27,94,99,Mobile,Safari,Search Engine,54.156.54.99,Hungary
+74,173,fish,3/24/2024,54,89,55,Desktop,Safari,Search Engine,55.11.149.193,Gambia
+75,171,still,2/21/2024,20,25,63,Desktop,Safari,Social Media,82.35.195.100,Central African Republic
+76,43,into,3/18/2024,50,8,77,Desktop,Safari,Search Engine,199.88.6.104,Lebanon
+77,43,way,3/19/2024,85,21,49,Desktop,Firefox,Social Media,151.238.167.198,Czech Republic
+78,19,cover,2/2/2024,98,28,70,Desktop,Chrome,Social Media,38.245.219.222,Oman
+79,108,claim,2/11/2024,66,80,98,Mobile,Chrome,Social Media,188.255.247.189,Mali
+80,138,moment,2/9/2024,88,70,22,Mobile,Safari,Search Engine,67.96.55.201,Malaysia
+81,129,me,4/10/2024,119,18,19,Desktop,Firefox,Social Media,18.36.124.160,Saint Martin
+82,136,themselves,5/10/2024,96,9,16,Desktop,Chrome,Search Engine,12.239.87.76,Lesotho
+83,124,former,4/15/2024,19,39,83,Desktop,Safari,Social Media,101.75.122.180,Hungary
+84,47,apply,6/15/2024,33,36,69,Desktop,Safari,Social Media,23.89.147.132,Korea
+85,173,already,1/21/2024,8,25,92,Desktop,Safari,Search Engine,32.252.159.6,Cuba
+86,44,plant,8/13/2024,49,98,60,Mobile,Firefox,Social Media,5.212.130.106,Cote d'Ivoire
+87,137,fast,8/14/2024,88,99,77,Mobile,Chrome,Direct,186.116.220.234,Guadeloupe
+88,149,boy,3/20/2024,95,15,89,Mobile,Chrome,Direct,223.96.251.175,Tuvalu
+89,49,property,4/29/2024,55,54,62,Desktop,Firefox,Search Engine,178.239.82.101,Australia
+90,167,measure,2/29/2024,54,19,7,Mobile,Chrome,Search Engine,117.97.189.188,French Southern Territories
+91,80,year,6/6/2024,108,87,82,Desktop,Safari,Search Engine,17.143.78.104,Antigua and Barbuda
+92,86,newspaper,5/17/2024,111,54,38,Mobile,Safari,Direct,57.200.63.119,Chad
+93,60,significant,6/15/2024,47,75,45,Desktop,Firefox,Search Engine,80.65.186.55,Bosnia and Herzegovina
+94,1,news,1/5/2024,86,85,25,Mobile,Firefox,Search Engine,3.205.50.43,Israel
+95,43,audience,8/17/2024,23,40,80,Desktop,Firefox,Search Engine,45.81.15.23,Mayotte
+96,41,store,2/28/2024,39,11,11,Desktop,Safari,Direct,171.116.40.65,Grenada
+97,27,someone,2/11/2024,16,71,40,Desktop,Chrome,Search Engine,173.131.60.117,Australia
+98,97,during,3/29/2024,85,89,41,Desktop,Chrome,Search Engine,76.207.255.80,Equatorial Guinea
+99,36,unit,8/10/2024,101,60,89,Desktop,Firefox,Direct,17.39.113.144,Brazil
+100,116,political,3/28/2024,30,47,99,Desktop,Chrome,Direct,220.77.44.195,Portugal
+101,50,reflect,8/6/2024,66,11,10,Desktop,Firefox,Search Engine,74.127.175.203,Cocos (Keeling) Islands
+102,179,follow,8/14/2024,32,30,3,Mobile,Chrome,Social Media,220.81.233.201,Cameroon
+103,85,difficult,1/1/2024,29,47,49,Desktop,Safari,Social Media,140.63.39.248,Uzbekistan
+104,167,might,2/10/2024,60,50,16,Mobile,Firefox,Social Media,152.186.181.110,Ireland
+105,37,agreement,6/8/2024,119,23,62,Desktop,Firefox,Direct,88.57.220.104,Sao Tome and Principe
+106,18,rich,7/12/2024,74,73,28,Mobile,Firefox,Search Engine,10.78.156.108,Mozambique
+107,40,story,8/13/2024,99,51,4,Desktop,Chrome,Direct,212.129.31.104,Congo
+108,183,agent,6/22/2024,21,71,41,Mobile,Firefox,Social Media,195.21.156.60,Pakistan
+109,198,address,6/2/2024,10,71,11,Mobile,Safari,Direct,132.115.37.61,New Caledonia
+110,124,film,5/17/2024,30,57,49,Desktop,Chrome,Search Engine,55.210.156.187,Bolivia
+111,10,eye,3/10/2024,65,28,87,Desktop,Safari,Search Engine,106.150.221.36,Yemen
+112,96,past,2/24/2024,111,99,97,Mobile,Firefox,Search Engine,59.154.99.109,Greece
+113,112,news,1/8/2024,99,11,53,Desktop,Safari,Search Engine,118.188.47.38,Montenegro
+114,126,easy,3/5/2024,103,56,3,Mobile,Firefox,Direct,66.69.115.74,Cuba
+115,133,media,6/5/2024,110,20,23,Mobile,Safari,Search Engine,125.109.117.56,Netherlands
+116,133,every,8/11/2024,79,76,41,Mobile,Firefox,Social Media,83.174.1.184,Micronesia
+117,61,level,4/25/2024,16,9,76,Desktop,Firefox,Search Engine,103.170.253.185,Lebanon
+118,96,same,6/11/2024,11,3,87,Mobile,Safari,Social Media,175.86.36.79,Faroe Islands
+119,82,coach,6/4/2024,43,88,10,Desktop,Firefox,Direct,199.70.180.158,Indonesia
+120,168,happen,3/9/2024,35,31,46,Desktop,Firefox,Direct,6.210.137.26,Cape Verde
+121,4,box,3/5/2024,15,94,61,Mobile,Chrome,Social Media,66.97.26.15,Pitcairn Islands
+122,10,debate,6/28/2024,74,82,25,Desktop,Chrome,Social Media,195.156.52.211,Madagascar
+123,150,traditional,1/13/2024,26,22,91,Mobile,Safari,Direct,4.76.184.208,Thailand
+124,89,commercial,1/15/2024,41,98,93,Mobile,Firefox,Direct,67.146.19.34,Tajikistan
+125,27,our,5/29/2024,48,23,12,Desktop,Safari,Social Media,88.183.3.167,Guadeloupe
+126,97,someone,1/8/2024,81,18,54,Desktop,Safari,Search Engine,187.89.157.91,Liberia
+127,7,have,4/18/2024,18,82,45,Desktop,Firefox,Direct,222.1.21.11,Syrian Arab Republic
+128,176,believe,6/4/2024,59,21,13,Desktop,Firefox,Social Media,72.30.242.67,Uruguay
+129,148,country,7/17/2024,82,68,60,Mobile,Chrome,Direct,165.160.207.60,Luxembourg
+130,8,listen,6/4/2024,48,80,91,Mobile,Firefox,Social Media,151.202.15.47,Norfolk Island
+131,24,crime,4/16/2024,82,65,2,Mobile,Firefox,Social Media,29.235.141.57,Angola
+132,15,experience,3/28/2024,66,6,12,Desktop,Firefox,Search Engine,39.90.198.94,Bosnia and Herzegovina
+133,171,here,2/21/2024,70,81,2,Desktop,Firefox,Direct,86.189.120.174,Moldova
+134,143,morning,1/18/2024,83,22,4,Desktop,Chrome,Social Media,147.115.140.81,Jordan
+135,16,hear,1/5/2024,89,45,98,Mobile,Firefox,Social Media,173.115.218.52,Slovakia (Slovak Republic)
+136,110,specific,4/11/2024,87,82,5,Desktop,Firefox,Social Media,46.246.177.220,Ghana
+137,6,particular,8/20/2024,53,99,75,Desktop,Firefox,Direct,168.45.203.122,Honduras
+138,72,natural,6/29/2024,2,30,20,Mobile,Chrome,Search Engine,34.148.128.172,Lao People's Democratic Republic
+139,153,bit,1/12/2024,94,26,68,Desktop,Safari,Social Media,189.191.190.39,Jordan
+140,160,since,4/16/2024,17,54,35,Mobile,Firefox,Social Media,10.75.227.144,Guinea
+141,55,movie,7/10/2024,23,12,75,Mobile,Firefox,Social Media,121.26.210.152,Zambia
+142,74,can,4/23/2024,65,2,8,Desktop,Safari,Search Engine,69.129.252.161,Guam
+143,79,short,7/12/2024,32,91,80,Desktop,Safari,Search Engine,121.163.124.97,Saint Lucia
+144,43,meet,6/24/2024,22,46,30,Desktop,Safari,Social Media,116.113.241.172,Montenegro
+145,114,ahead,7/23/2024,29,65,90,Mobile,Chrome,Social Media,216.220.8.75,Serbia
+146,135,outside,7/31/2024,26,92,71,Desktop,Chrome,Search Engine,45.200.214.82,Bolivia
+147,72,whatever,6/20/2024,107,24,86,Mobile,Safari,Social Media,83.8.218.160,Ghana
+148,75,television,4/13/2024,34,21,84,Desktop,Firefox,Direct,31.198.216.216,Heard Island and McDonald Islands
+149,17,sea,7/17/2024,119,28,38,Desktop,Firefox,Direct,164.40.75.52,Monaco
+150,7,thus,7/25/2024,94,30,57,Mobile,Chrome,Search Engine,154.62.134.49,Togo
+151,194,despite,5/30/2024,113,71,70,Mobile,Firefox,Search Engine,179.188.233.38,Heard Island and McDonald Islands
+152,149,whom,5/11/2024,109,30,74,Desktop,Firefox,Direct,154.246.158.214,Croatia
+153,138,sea,7/16/2024,32,20,88,Mobile,Firefox,Social Media,113.199.232.242,Somalia
+154,137,account,5/9/2024,25,83,96,Mobile,Safari,Direct,169.58.243.69,Burkina Faso
+155,15,interest,4/1/2024,41,87,68,Mobile,Firefox,Social Media,109.34.94.129,Saint Kitts and Nevis
+156,23,game,1/22/2024,22,85,27,Mobile,Chrome,Social Media,43.68.6.140,Sierra Leone
+157,168,line,7/2/2024,53,56,84,Mobile,Firefox,Search Engine,158.222.180.205,Brunei Darussalam
+158,27,central,5/12/2024,36,42,98,Mobile,Chrome,Social Media,145.75.109.187,San Marino
+159,144,section,5/17/2024,15,15,39,Mobile,Safari,Social Media,148.134.85.57,Uganda
+160,97,recognize,4/7/2024,73,61,37,Desktop,Safari,Direct,197.20.69.31,Belarus
+161,133,black,7/24/2024,47,7,47,Mobile,Safari,Direct,95.139.33.115,Saint Pierre and Miquelon
+162,101,same,2/9/2024,13,83,14,Mobile,Chrome,Social Media,22.83.189.83,Czech Republic
+163,187,power,3/20/2024,117,27,85,Mobile,Chrome,Search Engine,85.88.174.105,Marshall Islands
+164,158,rule,8/12/2024,63,95,44,Desktop,Firefox,Search Engine,49.122.193.36,India
+165,80,experience,5/12/2024,46,22,10,Mobile,Chrome,Search Engine,124.218.149.20,Palestinian Territory
+166,91,thus,3/27/2024,23,74,62,Desktop,Chrome,Search Engine,98.82.206.111,Turkey
+167,134,whom,5/28/2024,109,55,73,Desktop,Safari,Direct,87.37.125.205,Angola
+168,153,them,6/19/2024,101,5,21,Desktop,Chrome,Search Engine,39.140.75.163,Germany
+169,99,Mr,4/1/2024,115,1,60,Mobile,Safari,Direct,147.204.92.49,Dominica
+170,78,mouth,5/5/2024,85,47,97,Desktop,Chrome,Social Media,130.33.14.198,Mauritius
+171,99,phone,1/6/2024,50,69,59,Desktop,Chrome,Social Media,121.125.73.88,Benin
+172,58,best,8/13/2024,80,39,47,Mobile,Firefox,Social Media,184.65.190.165,Korea
+173,131,material,2/19/2024,69,35,49,Desktop,Safari,Direct,44.136.252.227,Montenegro
+174,89,officer,7/14/2024,26,67,5,Mobile,Firefox,Search Engine,108.74.241.74,Azerbaijan
+175,50,research,7/23/2024,73,32,75,Mobile,Safari,Direct,186.164.144.90,Ghana
+176,93,Democrat,2/25/2024,39,65,74,Mobile,Chrome,Direct,207.136.85.185,Ukraine
+177,15,dark,3/25/2024,116,45,9,Desktop,Firefox,Social Media,161.222.182.224,Israel
+178,113,never,7/7/2024,18,77,1,Mobile,Chrome,Social Media,79.145.173.245,Sierra Leone
+179,135,to,3/7/2024,95,64,41,Mobile,Firefox,Search Engine,193.16.66.185,Belarus
+180,188,would,5/16/2024,91,97,15,Desktop,Chrome,Social Media,79.177.198.191,Taiwan
+181,37,degree,7/5/2024,8,58,20,Desktop,Safari,Social Media,64.159.108.84,Syrian Arab Republic
+182,105,TV,4/19/2024,28,50,16,Desktop,Chrome,Social Media,12.227.6.252,Benin
+183,189,determine,6/23/2024,70,60,21,Desktop,Chrome,Social Media,102.71.246.45,Egypt
+184,133,send,7/4/2024,58,65,9,Mobile,Firefox,Search Engine,11.129.197.157,Falkland Islands (Malvinas)
+185,28,past,5/12/2024,107,48,91,Desktop,Safari,Direct,4.250.203.232,Turkmenistan
+186,30,Democrat,6/3/2024,43,1,10,Desktop,Firefox,Direct,84.138.189.219,New Caledonia
+187,186,avoid,6/28/2024,62,9,48,Desktop,Safari,Search Engine,219.223.222.153,Uruguay
+188,105,peace,5/30/2024,118,79,66,Mobile,Safari,Social Media,72.77.86.140,Tajikistan
+189,104,by,4/12/2024,112,41,31,Desktop,Chrome,Direct,157.119.220.172,Mauritania
+190,118,physical,3/13/2024,111,27,25,Mobile,Chrome,Direct,13.101.31.229,Cape Verde
+191,64,seat,6/30/2024,71,43,1,Desktop,Chrome,Social Media,109.25.47.35,Syrian Arab Republic
+192,31,many,8/16/2024,62,25,93,Desktop,Chrome,Direct,58.132.6.246,Saint Lucia
+193,152,change,5/10/2024,117,91,9,Mobile,Firefox,Direct,44.105.214.225,Canada
+194,138,finally,7/24/2024,11,12,99,Mobile,Chrome,Search Engine,28.248.179.248,Bouvet Island (Bouvetoya)
+195,198,painting,8/9/2024,34,91,59,Desktop,Chrome,Search Engine,7.76.133.236,Ghana
+196,145,everybody,4/19/2024,16,69,45,Mobile,Chrome,Search Engine,10.120.70.140,Turkey
+197,146,travel,1/23/2024,70,12,83,Mobile,Safari,Search Engine,47.136.100.235,Antarctica (the territory South of 60 deg S)
+198,114,child,6/20/2024,24,16,24,Mobile,Chrome,Social Media,21.53.121.147,Barbados
+199,20,reality,4/30/2024,85,37,74,Mobile,Chrome,Search Engine,212.94.104.27,Saint Lucia
+200,23,wish,1/18/2024,112,75,93,Mobile,Firefox,Search Engine,159.65.211.26,Zimbabwe
